@@ -29,10 +29,10 @@ Users should be able to:
 ### Screenshot
 
 This is the desktop view
-C:\Users\ub\Downloads\coding\desktop view.png
+<img src="desktop.png">
 
 This the mobile view
-C:\Users\ub\Downloads\coding\mobileview.png
+<img src="mobileview.png">
 
 
 
