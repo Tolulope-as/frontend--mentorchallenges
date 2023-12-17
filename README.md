@@ -29,10 +29,10 @@ Users should be able to:
 ### Screenshot
 
 This is the desktop view
-<img src="desktop.png">
+![Desktopview]{desktopview.png}
 
 This the mobile view
-<img src="mobileview.png">
+<![Mobileview]{mobileview.png}
 
 
 
