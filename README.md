@@ -4,7 +4,6 @@ Hi i'm Tolu and this is my solution to the [Results summary component challenge 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
