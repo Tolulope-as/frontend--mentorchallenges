@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-This is the desktop view
-![Desktopview]{desktopview.png}
 
-This the mobile view
-<![Mobileview]{mobileview.png}
+![ This is the Desktopview](desktopview.png)
+
+
+![ This is the Mobileview](mobileview.png)
 
 
 
