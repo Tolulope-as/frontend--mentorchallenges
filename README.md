@@ -29,10 +29,10 @@ Users should be able to:
 ### Screenshot
 
 This is the desktop view
-C:\Users\ub\Downloads\coding\desktop view.png
+
 
 This the mobile view
-C:\Users\ub\Downloads\coding\mobileview.png
+
 
 
 
@@ -40,8 +40,8 @@ C:\Users\ub\Downloads\coding\mobileview.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ((https://github.com/Tolulope-as/resultsummary-project.git)
+- Live Site URL: ((https://resultsummary-devproject.vercel.app/)
 
 ## My process
 Firstly,i examined the designs to start planning out how to tackle the project.
