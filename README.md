@@ -1,4 +1,3 @@
-
 Hi i'm Tolu and this is my solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -24,20 +23,7 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- 
-
-### Screenshot
-
-This is the desktop view
-
-
-This the mobile view
-![mobileview](https://github.com/Tolulope-as/resultsummary-project/assets/153427505/25e3523e-2326-4959-9a3b-768ceaaefc47)
-
-
-
-
-
+  
 
 ### Links
 
