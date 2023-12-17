@@ -1,4 +1,4 @@
- Frontend Mentor - Results summary component solution
+ 
 Hi i'm Tolu and this is my solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -29,7 +29,8 @@ Users should be able to:
 ### Screenshot
 
 
-![ This is the Desktopview](desktopview.png)
+
+![desktop view](https://github.com/Tolulope-as/frontend--mentorchallenges/assets/153427505/55eef817-585f-42c1-8126-264c9d27d564)
 
 
 ![ This is the Mobileview](mobileview.png)
