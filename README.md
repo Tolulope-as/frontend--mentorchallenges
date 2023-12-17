@@ -32,6 +32,7 @@ This is the desktop view
 
 
 This the mobile view
+![mobileview](https://github.com/Tolulope-as/resultsummary-project/assets/153427505/25e3523e-2326-4959-9a3b-768ceaaefc47)
 
 
 
