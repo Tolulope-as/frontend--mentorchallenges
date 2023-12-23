@@ -28,6 +28,8 @@ color:white;
     padding-top: 30px;
     color: rgb(212, 208, 208);
     margin-bottom: 30px;
+    font-size:18px;
+    font-weight:100;
 }
 .score{
 
@@ -57,7 +59,7 @@ h5{
     font-size: 1.5em;
     margin-top:20px;
 }
-#comment{
+.comment{
     color: rgb(212, 208, 208);
     width: 60%;
     font-size: 13px;
@@ -122,10 +124,10 @@ span{
     float: right;
     font-weight: 600;
 }
-#dull-text{
+.dull-text{
     opacity: 0.5;
 }
-#summary-text{
+.summary-text{
     color: #292929;
     font-size: 18px;
     font-weight: bold;
